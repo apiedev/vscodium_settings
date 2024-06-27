@@ -1,0 +1,10 @@
+{
+    "background.enabled": true,
+    "background.fullscreen": {
+        "images": ["https://i.redd.it/9j7gdmh1y97d1.jpeg"],
+        "opacity": 0.8,
+        "size": "cover",
+        "position": "center",
+        "interval": 0
+    }
+}
